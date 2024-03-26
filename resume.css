@@ -13,8 +13,8 @@ h1{
 img{
   
   border-radius: 6%;
-  padding:5px 5px 5px 5px;
-  background-color: #5A4938;
+  border: 5px solid;
+  border-color: #5A4938;
   margin: 0% 0% 1% 5%;
   float: left;
   width: 20%;
@@ -138,4 +138,5 @@ color: black;
   cursor: pointer;
   width: 70px;
   height: auto;
+  border: 0px;
 }
