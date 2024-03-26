@@ -160,5 +160,9 @@ h1{
       cursor: pointer;
       width: 60px;
       height: auto;
+      opacity: 0.75;
     }
-  
+    
+    .home_button img:hover{
+      opacity: 1;
+    }
