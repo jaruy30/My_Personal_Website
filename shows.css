@@ -135,4 +135,9 @@
     width: 60px;
     height: auto;
     border: 0px;
+    opacity: 0.75;
+  }
+
+  .home_button img:hover{
+    opacity: 1;
   }
