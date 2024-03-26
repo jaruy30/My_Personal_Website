@@ -1,4 +1,4 @@
-h1{
+  h1{
     height:80px;
     font-size: 65px;
     text-align: center;
@@ -63,66 +63,75 @@ h1{
     text-shadow: 1px 2px #5A4938
     }
     
-    .comedy a{
+  .comedy a{
+  width:fit-content;
+  margin-left: 580px;
+  margin-top: -120px; 
+  margin-bottom: -15px;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 1px 2px #5A4938
+  }
+
+  .non-fiction a{
     width:fit-content;
-    margin-left: 580px;
-    margin-top: -120px; 
+    margin-left: 750px;
+    margin-top: -55px; 
     margin-bottom: -15px;
     font-size: 20px;
     text-align: center;
     text-shadow: 1px 2px #5A4938
     }
-
-    .non-fiction a{
-      width:fit-content;
-      margin-left: 750px;
-      margin-top: -55px; 
-      margin-bottom: -15px;
-      font-size: 20px;
-      text-align: center;
-      text-shadow: 1px 2px #5A4938
+  
+  
+  
+    a {
+      display: block;
+      color: #BB7B41;
+      padding-left: 20px;
+      padding-right: 25px;
+      text-decoration: none;
+      margin-top: 15px;
+      margin-bottom: 30px;
+      margin-right: 25px;
+      font-size: 28px;
+      font-family: Verdana;
+      font-weight: bold;
       }
-    
-    
-    
-      a {
-        display: block;
-        color: #BB7B41;
-        padding-left: 20px;
-        padding-right: 25px;
-        text-decoration: none;
-        margin-top: 15px;
-        margin-bottom: 30px;
-        margin-right: 25px;
-        font-size: 28px;
-        font-family: Verdana;
-        font-weight: bold;
-        }
 
-        
-      a:hover {
-        color: black;
-        }
+      
+    a:hover {
+      color: black;
+      }
 
-        video{
-            width: 50%;
-            height: 300px;
-            float: left;
-            margin-top: -380px;
-            margin-left: 500px;
-            border-radius: 6px;
-            padding:50px 5px 5px 5px;
-            align-items: center;
-            background-color: #CBA077;
-            border-radius: 20px;
-            border: 10px solid #5A4938;
-            }
-        
-        img{
-            width: 300px;
-            height: 350px; 
-            margin-left: 150px;
-            margin-top: -170px; 
-            border-radius: 20px;  
-            border: 10px solid #5A4938;
-            }
+  video{
+      width: 50%;
+      height: 300px;
+      float: left;
+      margin-top: -380px;
+      margin-left: 500px;
+      border-radius: 6px;
+      padding:50px 5px 5px 5px;
+      align-items: center;
+      background-color: #CBA077;
+      border-radius: 20px;
+      border: 10px solid #5A4938;
+      }
+  
+  img{
+      width: 300px;
+      height: 350px; 
+      margin-left: 150px;
+      margin-top: -170px; 
+      border-radius: 20px;  
+      border: 10px solid #5A4938;
+      }
+
+  .home_button img {
+    position: fixed;
+    bottom: 20px;
+    left: -235px;
+    cursor: pointer;
+    width: 70px;
+    height: auto;
+  }

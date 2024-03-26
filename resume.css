@@ -130,3 +130,12 @@ font-family: Verdana;
 a:hover {
 color: black;
 }
+
+.home_button img {
+  position: fixed;
+  bottom: 20px;
+  left: -235px;
+  cursor: pointer;
+  width: 70px;
+  height: auto;
+}
