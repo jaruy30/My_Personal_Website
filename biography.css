@@ -7,7 +7,7 @@ h1{
   margin-bottom: 0%;
   margin-top: 0%;
   font-family: Georgia;
-  text-shadow: 1px 2px beige
+  text-shadow: 1px 2px #f5f5dc
 }
 
 hr{
@@ -137,6 +137,6 @@ text-shadow: 1px 2px #5A4938
     bottom: 20px;
     left: -235px;
     cursor: pointer;
-    width: 70px;
+    width: 60px;
     height: auto;
   }
