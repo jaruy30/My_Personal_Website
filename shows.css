@@ -108,7 +108,7 @@
       width: 50%;
       height: 300px;
       float: left;
-      margin-top: -380px;
+      margin-top: -410px;
       margin-left: 500px;
       border-radius: 6px;
       padding:50px 5px 5px 5px;
@@ -141,3 +141,5 @@
   .home_button img:hover{
     opacity: 1;
   }
+
+  
