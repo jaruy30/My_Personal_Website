@@ -88,7 +88,7 @@ h1{
     border: 10px solid #5A4938;
   }
 
-  .japan_images img {
+  .australia_images img {
     width: 700px;
     height: 375px;
     margin: 5px;
@@ -97,19 +97,19 @@ h1{
     border-radius: 20px;
   }
         
-  .japan_images-1{
+  .australia_images-1{
     display:flex;
     justify-content: space-between;
     margin: 0px 100px 0px 150px;
   }
 
-  .japan_images a{
+  .australia_images a{
     float: left;
     margin: -10px;
     opacity: 1;
     border-radius: 20px;
   }
 
-  .japan_images img:hover {
+  .australia_images img:hover {
     box-shadow: 0 0 10px 8px #5A4938;
   }
